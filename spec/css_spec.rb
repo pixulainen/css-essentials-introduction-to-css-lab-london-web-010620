@@ -12,6 +12,7 @@ RSpec.describe 'styling' do
     end 
   end
 
+
   context 'within index.html' do
     
     it 'contains a <link> tag' do
